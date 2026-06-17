@@ -1,6 +1,6 @@
 first line and first commit.
 second line and second commit.
 third line and third commit
-fourth line and fourth commit
+fourth line and fourth commit.
 fifth line and fifth commit
 sixth line and sixth commit
